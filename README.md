@@ -22,24 +22,30 @@ To get this project up and running on your local machine, follow these steps:
 ## 🤝 Contributing
 Contributions are welcome! If you have any suggestions or improvements, feel free to create an issue or submit a pull request.
 
-Fork the repository.
-Create a new branch:
-bash
-Copy code
-git checkout -b feature-branch-name
-Make your changes and commit them:
-bash
-Copy code
-git commit -m 'Add some feature'
-Push to the branch:
-bash
-Copy code
-git push origin feature-branch-name
-Open a pull request.
+2. Fork the repository.
+   Create a new branch:
+   ```bash
+   git checkout -b feature-branch-name
+
+
+3. **Make your changes and commit them:**
+    ```bash
+    git commit -m 'Add some feature'
+    
+4. **Push to the branch:**
+    ```bash
+    git push origin feature-branch-name
+
+
+
+Open a pull request
+
 
 ## 📞 Contact
 If you have any questions or need further assistance, please reach out:
 
 Email: dennisnzioki019@example.com
+
 GitHub: DNXEMPIRE-1
-Thank you for checking out the Bike Product Card! 🚴‍♂️✨
+
+## Thank you for checking out the Bike Product Card! 🚴‍♂️✨
