@@ -2,7 +2,7 @@
 
 Welcome to the **Bike Product Card** project! This card provides detailed information about a bike, including its specifications, features, and price. It's designed to give potential customers a quick overview in a visually appealing format.
 
-![Bike Product Card](https://example.com/bike-image.jpg) <!-- Replace with an actual image URL -->
+![Bike Product Card](https://github.com/DNXEMPIRE-1/Product-Card/blob/main/bike.png) <!-- Replace with an actual image URL -->
 
 ## 📋 Features
 
